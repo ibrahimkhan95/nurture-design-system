@@ -2,7 +2,7 @@
 
 Design system reference for Nurture, the product design and research lab at Arbisoft.
 
-**What's in here**
+## **What's in here**
 
 **DESIGN.md** — the full Nurture design system: colors, typography, spacing, components, and dos/don'ts. Written in a format AI coding agents can read and apply directly.
 
