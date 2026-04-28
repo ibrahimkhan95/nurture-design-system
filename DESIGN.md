@@ -2,7 +2,7 @@
 
 ## Overview
 
-Nurture is the product design and research lab at Arbisoft. Warm, human, and approachable — the brand balances playful illustration with editorial precision. The visual language is friendly but opinionated: brutalist structure (hard edges, visible strokes, offset shadows) softened by a rich pastel palette and conversational typography.
+Nurture is the product design and research lab at Arbisoft. Warm, human, and approachable, the brand balances playful illustration with editorial precision. The visual language is friendly but opinionated: brutalist structure (hard edges, visible strokes, offset shadows) softened by a rich pastel palette and conversational typography.
 
 ---
 
